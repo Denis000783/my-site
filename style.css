@@ -1,6 +1,7 @@
 .q{
     width:800px ;
     height: 700px;
+    background-image: url(1);
     float: left;
     
 }
@@ -58,6 +59,7 @@ a{
 .y{
     width:400px ;
     height: 700px;
+    background-image: url(1);
     float: left;
     margin-right: 30px;
     
@@ -65,16 +67,18 @@ a{
 .u{
     width:400px ;
     height: 700px;
+    background-image: url(1);
     float: right;
 }
 .i{
     width:700px ;
     height: 400px;
+    background-image: url(1);
     float: right; 
 }
 @media screen and (max-width: 658px ) {
 
-    .r{
+    .q{
         width:440px ;
         height: 162px;
         float: none;
@@ -89,19 +93,24 @@ a{
        
        
     }
-    .y{
+    .e{
         width:152px ;
         height:250px;
         float: left;
        
        
     }
-    .u{
+    .i{
         width:200px ;
         height: 152px;
         float: left;
        
        
+    }
+    .u{
+        width:182px ;
+        height:250px;
+        float: right;
     }
     h1{
 font-size: 20px;
@@ -138,7 +147,7 @@ font-size: 15px;
     
 @media screen and (min-width: 659px ) and (max-width: 999px ){
 
-    .r{
+    .q{
         width:400px ;
         height: 300px;
         float: none;
@@ -154,7 +163,7 @@ font-size: 15px;
        
        
     }
-    .y{
+    .e{
         width:182px ;
         height:250px;
         float: left;
